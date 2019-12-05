@@ -30,12 +30,18 @@ GoBarber (MOBILE) é aplicação feita utilizando #ReactJS, que implementa o flu
 ## ⚙ Configuração
 
 1- Para instalar as dependências:
-> yarn
 
-2- Para iniciar a aplicação:
-> yarn start
+yarn
 
-3- Essa aplicação faz uso da api de outro projeto
+2- Para instalar a aplicação: (*o emulador ou o device devem estar conectados neste momento)
+
+react-native run-android/run-ios
+
+3- Para rodar o bundle:
+
+react-native start
+
+4- Essa aplicação faz uso da api de outro projeto
 
 https://github.com/phabiulla/gobarber-backend
 
